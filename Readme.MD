@@ -14,6 +14,3 @@ LMS is a Library Management website. The web based app is built using node.js, e
 - Change `.env.example` name to `.env` and update it's information
 - Run the server with `npm start` and open `localhost:5000`. Now you're ready to start.  
 
-## Author
-
-[Darshan Kumar](https://github.com/itsdarshankumar)
